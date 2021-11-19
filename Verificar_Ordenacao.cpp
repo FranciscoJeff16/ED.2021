@@ -15,7 +15,7 @@ int main(){
 }
 
 bool checando(int vet[], int n){
-	if (n == 0 || n == 1){//caso o vetor não tenha elementos ou seja somente de 1 elemento
+	if (n <= 1){//caso o vetor não tenha elementos ou seja somente de 1 elemento
 		return true;
 	}
 	for (int i = 0; i < n-1; i++){
