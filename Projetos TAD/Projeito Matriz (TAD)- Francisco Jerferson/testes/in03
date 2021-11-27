@@ -1,0 +1,11 @@
+cria 5 5
+0 2 0 3 1 9 -8 23 0 1 -33 87 2 6 7 0 1 4 0 9 0 3 0 1 3
+nlinhas 0
+ncolunas 0
+imprime 0
+cria 2 2
+1 3 4 1
+nlinhas 1
+ncolunas 1
+imprime 1
+exit
